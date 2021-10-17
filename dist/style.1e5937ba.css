@@ -1,0 +1,20 @@
+.map {
+  background: black;
+}
+.map__row {
+  display: flex;
+}
+.map__col {
+  width: 100px;
+  height: 100px;
+  border: 1px solid white;
+}
+
+.user1 {
+  background: yellow;
+}
+
+.user1 {
+  background: red;
+}
+/*# sourceMappingURL=style.1e5937ba.css.map */

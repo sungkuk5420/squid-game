@@ -1,0 +1,18 @@
+.map{
+    background: black;
+    &__row{
+        display: flex;
+    }
+    &__col{
+        width: 100px;
+        height: 100px;
+        border:1px solid white;
+    }
+}
+
+.user1{
+    background: yellow;
+}
+.user1{
+    background: red;
+}
